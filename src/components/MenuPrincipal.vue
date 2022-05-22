@@ -21,11 +21,11 @@
               <a href="#" class="text-success">Entre em contato conosco</a>
             </li>
             <li>
-              <a href="assets/cadastrar.html" class="text-success"
+              <a href="#" class="text-success"
                 >Cadastre-se!</a
               >
             </li>
-            <li><a href="assets/login.html" class="text-success">Logar</a></li>
+            <li><a href="#" class="text-success">Logar</a></li>
           </ul>
         </div>
       </div>
