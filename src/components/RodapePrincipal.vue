@@ -4,7 +4,7 @@
 
 <style>
     .rodape{
-        background-color: #055902e3;
+        background-color: #2b9f3f;
         color: white;
         padding: 20px;
     }

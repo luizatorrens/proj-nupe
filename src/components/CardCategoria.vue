@@ -20,6 +20,7 @@ export default {
           {{ material.descricao }}
         </p>
       </div>
+      <button type="button" class="btn-success btn-sm btnreservar">Reservar</button>
     </div>
   </div>
 </template>
@@ -29,5 +30,14 @@ export default {
   display: flex;
   flex-direction: row;
   height: 200px;
+  padding: 20px;
+}
+.btnreservar {
+  height: min-content;
+  margin-top: 120px;
+  color: white;
+  background-color: #2b9f3f;
+  border-color: #2b9f3f;
+  border-radius: 5px;
 }
 </style>

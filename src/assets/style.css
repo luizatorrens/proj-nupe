@@ -1,9 +1,12 @@
 h1{
-    background-color: #055902;
+    background-color: #2b9f3f;
     color: white;
     padding-left: 12px;
     font-size: 25px;
 }
 .buttonnav{
-    background-color: #055902;
+    background-color: #2b9f3f;
+}
+body{
+    margin: 8px;
 }
