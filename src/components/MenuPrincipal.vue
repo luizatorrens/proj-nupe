@@ -36,9 +36,9 @@
     <a href="#" class="navbar-brand d-flex align-items-center">
       <img
         class="logo"
-        src="../assets/logoifc.png"
+        src="../components/imgs/logoifc.png"
         alt=""
-        height="80px"
+        height="90px"
         width="110px"
       />
     </a>

@@ -17,12 +17,12 @@ export default {
             {
               nome: "Bola Futebol",
               descricao: "Quantidade disponível:",
-              imagem: new URL("./imgs/bfutebol.jpg", import.meta.url).href,
+              imagem: new URL("./imgs/bfutebol.png", import.meta.url).href,
             },
             {
               nome: "Bola Vôlei",
               descricao: "Quantidade disponível:",
-              imagem: new URL("./imgs/bvolei.jpg", import.meta.url).href,
+              imagem: new URL("./imgs/bvolei.png", import.meta.url).href,
             },
           ],
         },
@@ -43,7 +43,7 @@ export default {
             {
               nome: "Banco Imobiliário",
               descricao: "Quantidade disponível:",
-              imagem: new URL("./imgs/bancoimobiliario.jpg", import.meta.url)
+              imagem: new URL("./imgs/bancoimobiliario.png", import.meta.url)
                 .href,
             },
           ],
@@ -54,12 +54,12 @@ export default {
             {
               nome: "Truco",
               descricao: "Quantidade disponível:",
-              imagem: new URL("./imgs/baralho.png", import.meta.url).href,
+              imagem: new URL("./imgs/truco.jpg", import.meta.url).href,
             },
             {
               nome: "Uno",
               descricao: "Quantidade disponível:",
-              imagem: new URL("./imgs/uno.jpg", import.meta.url).href,
+              imagem: new URL("./imgs/uno.png", import.meta.url).href,
             },
             {
               nome: "Tradicional",
