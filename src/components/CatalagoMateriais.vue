@@ -8,6 +8,7 @@ export default {
       categorias: [
         {
           nome: "Bolas",
+          cor: "verde",
           materiais: [
             {
               nome: "Bola Basquete",
@@ -28,6 +29,7 @@ export default {
         },
         {
           nome: "Tabuleiros",
+          cor: "roxo",
           materiais: [
             {
               nome: "Ludo",

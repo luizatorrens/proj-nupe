@@ -1,5 +1,5 @@
 h1{
-    background-color: #2b9f3f;
+    background-color: black;
     color: white;
     padding-left: 12px;
     font-size: 25px;
@@ -9,4 +9,14 @@ h1{
 }
 body{
     margin: 8px;
+}
+
+.verde {
+    background-color: #2b9f3f;
+
+}
+
+.roxo {
+    background-color: #712788;
+
 }

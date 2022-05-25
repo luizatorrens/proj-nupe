@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-  <h1>{{ categoria.nome }}</h1>
+  <h1 :class="categoria.cor">{{ categoria.nome }}</h1>
 
   <div class="card-group">
     <div
@@ -20,7 +20,10 @@ export default {
           {{ material.descricao }}
         </p>
       </div>
-      <button type="button" class="btn-success btn-sm btnreservar">Reservar</button>
+      <button
+        type="button"
+        class="btn-success btn-sm btnreservar"
+        :class="categoria.cor">Reservar</button>
     </div>
   </div>
 </template>
